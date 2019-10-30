@@ -19,6 +19,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SearchArray" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -65,6 +66,9 @@
       <workItem from="1571908344899" duration="1290000" />
       <workItem from="1571909699177" duration="2626000" />
       <workItem from="1571965611235" duration="1686000" />
+      <workItem from="1572405361270" duration="31000" />
+      <workItem from="1572405454443" duration="307000" />
+      <workItem from="1572405768524" duration="319000" />
     </task>
     <servers />
   </component>

@@ -12,8 +12,8 @@ public class Student extends Person {
     @Override
     public void showInfo() {
         super.showInfo();
-        System.out.print("; rollNo: "+ rollNo +"; mark: "+ mark +
-                "; email: "+ email);
+        System.out.print("; rollNo: " + rollNo + "; mark: " + mark +
+                "; email: " + email);
         System.out.println("");
     }
 
@@ -67,7 +67,7 @@ public class Student extends Person {
             this.rollNo = rollNo;
             return true;
         } else {
-            System.err.println(" Please enter your rollNo again");
+            System.err.println(" Please enter your rollNo again ( pls enter 8 characters)");
             return false;
         }
     }
